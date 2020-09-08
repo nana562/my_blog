@@ -8,7 +8,7 @@ const blogData = [{
     {
         id: 2,
         title: "In the Middle of the Burning",
-        content: "in these vibrating hours where the corners talk back need I simply run my tongue along the granite sky and live to know how lost the millionth life somewhere today the swift shape of roads new names combust, the sumof anthems flooding the world with the eye’s sudden and narrow saltwater and streets ziplined with screams at the pitch of cooking potsthen tear gas, then pepper spray, then militarized lies unzipping body bags, oh, our many many there, our alive and just born,and that is how to say let’s fuck it up, we the beat and we the loudtuning forks and the help arriving empty-handedpropping the hot news of new times on our head",
+        content: "In these vibrating hours where the corners talk back need I simply run my tongue along the granite sky and live to know how lost the millionth life somewhere today the swift shape of roads new names combust, the sumof anthems flooding the world with the eye’s sudden and narrow saltwater and streets ziplined with screams at the pitch of cooking potsthen tear gas, then pepper spray, then militarized lies unzipping body bags, oh, our many many there, our alive and just born,and that is how to say let’s fuck it up, we the beat and we the loudtuning forks and the help arriving empty-handedpropping the hot news of new times on our head",
         author: "Canisia Lubrin",
         date: " 2020",
     },
@@ -44,7 +44,7 @@ const blogData = [{
         id: 7,
         title: "Finibus Bonorum et Malorum",
         content: "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discoveredSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sitHow, like a foolish pair were we, To fume about a letter; Time is so precious, you and me; Must spend ours doing better.I dare not singbanother song to dig a hole this time for the lineages of magnolias where the offspring bring a hand to cover our mouth, our heaping lives, who sit who burn who drop three feet to the tar, who eat and demolish the thing that takes our head, the thing that is no more the place that never was except a burning learned Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad",
-        author: "James Patterson",
+        author: "James Patterso",
         date: "2021",
     },
     {

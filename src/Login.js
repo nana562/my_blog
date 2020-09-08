@@ -19,40 +19,35 @@ class Login extends React.Component {
         this.setState({
             email: '',
             password: ''
-
+        
         })
 
     }
 
     render() {
-        return ( <
-            div >
-            <
-            h1 > LOCAL BLOG < /h1> <
-            form >
-            <
-            br / >
-
-            <
-            input name = "email"
+        return ( 
+            <div>
+                <h1>LOCAL BLOG</h1>
+            <form>
+            <br/>
+           
+            <input name = "email"
             placeholder = "Email"
-            type = "email"
+            type ="email"
             value = { this.state.email }
-            onChange = { e => this.change(e) }
-            />  <
-            input name = "password"
+            onChange = { e => this.change(e)}
+            /> 
+            <input name = "password"
             placeholder = "Password"
             type = "password"
             value = { this.state.password }
-            onChange = { e => this.change(e) }
-            />   <
-            button onClick = {
-                (e) => this.onSubmit()
-            } > LogIn < /button>
-
-            <
-            /form> <
-            /div>
+            onChange = {e => this.change(e)}
+            />  
+            <button onClick = {
+                (e) => this.onSubmit()}> LogIn </button>
+                
+            </form>
+            </div>
 
         )
     }

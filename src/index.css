@@ -1,18 +1,25 @@
 body {
     margin: auto;
     width: 50%;
+    font-family: sans-serif;
     background-color: whitesmoke;
 }
+h1{
+   text-align: center; 
+}
+form{
+    text-align: end;
+    
+}
+input{
+    border-radius: 2px;
+    padding: 5px;
+}
 
-.navbar {
-    height: 100px;
-    background-color: #000000;
-    color: whitesmoke;
-    margin-bottom: 15px;
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+p {
+    font-size: 20px;
+    padding: 2px;
+    
 }
 
 .create-post {
