@@ -1,0 +1,33 @@
+body {
+    margin: auto;
+    width: 50%;
+    background-color: whitesmoke;
+}
+
+.navbar {
+    height: 100px;
+    background-color: #000000;
+    color: whitesmoke;
+    margin-bottom: 15px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.create-post {
+    background-color: white;
+    margin: auto;
+    padding: 10px;
+    display: block;
+    font-weight: 100;
+}
+
+footer {
+    height: 100px;
+    background-color: #000000;
+    display: flex;
+    color: whitesmoke;
+    text-align: center;
+    justify-content: center;
+}
